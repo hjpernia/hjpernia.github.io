@@ -1,0 +1,33 @@
+#links {
+
+	margin: 30px ;
+	border: 2px dotted #000000 ;
+	padding: 15px ;
+
+	}
+
+
+
+
+
+p {
+	color: #0066FF ;
+	text-align: center ;
+  }
+
+
+
+
+.border {
+
+	border: 2px solid #000000 ;
+       
+       }
+	   
+	   
+.picture {
+
+	border: 2px solid #0066FF ;
+	width: 500px ;
+	
+		}
